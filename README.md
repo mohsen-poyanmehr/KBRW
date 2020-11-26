@@ -1,3 +1,5 @@
+# run application
+  **mix run acount_server.ex**
 # TRAINING
 
 **TODO: Add description**
